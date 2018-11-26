@@ -51,3 +51,26 @@ div {
 #rightW {
 	right: 10px;
 }
+
+#roof {
+	width: 0;
+	height: 0;
+	background-color: transparent;
+	border-left: 49px solid transparent;
+	border-right: 49px solid transparent;
+	border-top: 0px;
+	border-bottom: 49px solid white;
+	bottom: 94px;
+	left: 3px;
+}
+
+#roofBorder {
+	width: 0;
+	height: 0;
+	border-left: 52px solid transparent;
+	border-right: 52px solid transparent;
+	border-top: 0px;
+	border-bottom: 52px solid black;
+	bottom: 94px;
+
+}
